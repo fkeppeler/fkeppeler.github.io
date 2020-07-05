@@ -311,5 +311,5 @@ compress_html:
     envs: development
 
 #Languages
-languages: ["pt_BR", "en"]
-
+# default langages : "en" 
+languages: ["en","pt-BR"]
