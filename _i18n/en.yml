@@ -1,1 +1,8 @@
-
+global:
+  english: english 
+  portuguese: portuguese
+pages:
+  home: Home
+  work: Work
+titles:
+  pagination: Pagination
