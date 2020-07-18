@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Friedrich Wolfgang Keppeler"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Friedrich Wolfgang Keppeler"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Friedrich Wolfgang Keppeler"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Community ecologist, data scientist, and investor"
+  location         : "College Station, Texas"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iruzc9EAAAAJ&hl=pt-BR"
-  email            :
+  email            : "fkeppeler@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Friedrich_Wolfgang_Keppeler3"
   uri              :
   bitbucket        :
@@ -101,8 +101,9 @@ author:
   keybase          :
   instagram        :
   impactstory      : 
+  LattesPlatform   : "http://lattes.cnpq.br/4743340542470876"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/friedrich-keppeler-4b8aa6123/"
   orcid            : "http://orcid.org/0000-0002-5165-1298"
   pinterest        :
   soundcloud       :
