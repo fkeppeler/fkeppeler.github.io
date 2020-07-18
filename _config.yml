@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Profile"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Friedrich Wolfgang Keppeler"
 description              : &description "personal description"
