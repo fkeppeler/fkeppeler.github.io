@@ -1,0 +1,14 @@
+---
+title: "The relationship between trophic level and body size in fishes depends on functional traits"
+collection: publications
+permalink: /publication/paper-17
+date: 2020-05-02
+venue: 'Ecological Monographs'
+citation: 'Keppeler F W, Montaña C G, Winemiller K O. 2020.&quot;The relationship between trophic level and body size in fishes depends on functional traits.&quot; <i>Ecological Monographs</i>. Early View'
+excerpt: " https://doi.org/10.1002/ecm.1415"
+
+---
+Predators typically are larger than their prey, and consequently, trophic level should increase with body size. Whereas this relationship has helped in developing predictions about food web structure and dynamics in mesocosms and simple communities, a trophic‐level–body‐size relationship may not exist for all kinds of communities or taxa, especially those with many non‐carnivorous species. Moreover, functional traits associated with trophic level generally have not been considered. Herein, we examine the correlation between trophic level and body size in fishes and how this relationship may vary in relation to functional traits (body dimensions, mouth size and orientation, tooth shape, gill rakers, and gut length) and trophic guilds (carnivorous vs. non‐carnivorous). We analyzed data from morphological measurements and dietary analyses performed on thousands of specimens from freshwater and estuarine habitats across three zoogeographic regions (Neartic, Neotropical, and Afrotropical). A positive relationship between trophic level and body size was only found for carnivorous fishes. No relationship was found when all species were analyzed together, rejecting the idea that trophic level is positively related with body size in fishes generally. This result was consistent even when using either body mass or standard length as the measure of body size, and trophic level for either species (average values) or individual specimens as the response variable. At the intraspecific level, trophic level varied consistently with size for one third of the species, among which only 40% had positive relationships. Body depth, tooth shape, and mouth width were all associated with the trophic‐level–body‐size relationship. Overall, predators with conical or triangular serrated teeth, large mouths, and elongated/and/or fusiform bodies tend to have positive trophic‐level–body‐size relationships, whereas primarily non‐carnivorous species with unicuspid or multicuspid teeth, deep bodies and small to medium sized mouth gapes tended to have negative relationships. Given the diverse ecological strategies encompassed by fishes, trophic level and food web patterns and processes should not be inferred based solely on body size. Research that integrates multiple functional traits with trophic ecology will improve understanding and predictions about food web structure and dynamics.
+
+[Download paper here](http://fkeppeler.github.io/files/paper17.pdf)
+
