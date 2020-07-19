@@ -8,7 +8,7 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper4.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-<p>The genus Atlantirivulus includes 11 species distributed along coastal river basins and lagoons of eastern and southern Brazil. Most killifishes are threatened with extinction mostly due to their restricted distribution ranges, small population sizes, and habitat loss. Poor knowledge on ecological- and life history information further increases the threats. Atlantirivulus riograndensis (Costa et Lanés, 2009) is a non-annual, small-sized fish endemic in the Laguna dos Patos basin and adjacent coastal areas in southern Brazil.</p>
+The genus Atlantirivulus includes 11 species distributed along coastal river basins and lagoons of eastern and southern Brazil. Most killifishess are threatened with extinction mostly due to their restricted distribution ranges, small population sizes, and habitat loss. Poor knowledge on ecological and life history information further increases the threats. Atlantirivulus riograndenss (Costa et Lanés, 2009) is a non-annual, small sized fish endemic in the Laguna dos Patos basin and adjacent coastal areas in southern Brazil.  
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
