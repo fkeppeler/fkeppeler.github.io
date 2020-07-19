@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Abundance, sex-ratio, length–weight relation, and condition factor of non-annual killifish Atlantirivulus riograndensis (Actinopterygii: Cyprinodontiformes: Rivulidae) in Lagoa do Peixe National Park, a Ramsar site of southern Brazil"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
