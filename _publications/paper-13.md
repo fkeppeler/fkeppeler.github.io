@@ -1,10 +1,10 @@
 ---
-title: "Effects of hydrology on fish diversity and assemblage structure in a Texan coastal plain river."
+title: "Effects of hydrology on fish diversity and assemblage structure in a Texan coastal plain river"
 collection: publications
 permalink: /publication/paper-13
 date: 2018-10-24
 venue: 'Transactions of the American Fisheries Society'
-citation: 'Bower L, Keppeler F W, Cunha E R, Quintana Y, Saenz D E, Lopez-Delgado E O, Bokhutlo T, Arantes C C, Andrade M C, Robertson C R, Mayes K B, Winemiller K O. &quot;Effects of hydrology on fish diversity and assemblage structure in a Texan coastal plain river.&quot; <i>Transactions of the American Fisheries Society</i>. 148(1) 207:218.'
+citation: 'Bower L, Keppeler F W, Cunha E R, Quintana Y, Saenz D E, Lopez-Delgado E O, Bokhutlo T, Arantes C C, Andrade M C, Robertson C R, Mayes K B, Winemiller K O. 2018.&quot;Effects of hydrology on fish diversity and assemblage structure in a Texan coastal plain river.&quot; <i>Transactions of the American Fisheries Society</i>. 148(1) 207:218.'
 excerpt: "https://doi.org/10.1002/tafs.10129"
 
 ---
