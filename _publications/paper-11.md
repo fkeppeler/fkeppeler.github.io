@@ -1,0 +1,14 @@
+---
+title: "Ecological influences of human population size and distance to urban centres on fish communities in tropical lakes"
+collection: publications
+permalink: /publication/paper-11
+date: 2018-05-30
+venue: 'Aquatic Conservation: Marine and Freshwater Ecosystems'
+citation: 'Keppeler F W, de Souza A C, Hallwass G, Begossi A, de Almeida MC, Isaac V J, Silvano R A M. 2018. &quot;Ecological influences of human population size and distance to urban centres on fish communities in tropical lakes.&quot; <i>Aquatic Conservation: Marine and Freshwater Ecosystems</i>. 28(5): 1030-1043.'
+excerpt: " https://doi.org/10.1002/aqc.2910"
+
+---
+Human population growth is a major cause of species extinction worldwide, and tropical fresh waters are among the most imperilled ecosystems. The identification of major drivers of human impacts on fish can benefit conservation programmes and management plans. The influences of the proximity to urban centres and human population size on six ecological indicators of fish communities (abundance, biomass, richness, diversity, average size, and size dominance pattern) were investigated in 48 floodplain lakes of five main rivers of the Brazilian Amazon (Tocantins, Tapajós, Negro, Solimões, and the Lower Amazon). These ecological indicators were also compared among the rivers studied and checked for any influence of the environmental variables of lakes (size, shape of natural shoreline, distance to the main river channel, depth, transparency, conductivity, and dissolved oxygen). Lake distance to urban centre was positively related to average fish size and dominance of large fish, indicating direct human effects caused by fisheries or indirect effects by habitat alteration (e.g. deforestation). Unexpected positive relationships between human population size and the richness and diversity of fishes were found, and may be caused by ecological compensatory effects, the abundance of rare non‐fished species, or the proximity of an urban centre to ecotone areas. The other ecological indicators were unrelated to anthropogenic variables. Environmental factors affected fish communities, but did not change the conclusions regarding the effect of the anthropogenic variables. River basin was strongly related to species richness, diversity, biomass, and abundance of fish. Distance to the river channel was positively related to fish biomass. The disappearance of large fish threatens the food security of riverine communities, and may harm essential ecosystem services. Conservation measures, including local management initiatives, protected areas, fisheries monitoring, and the enforcement of existing fishing rules need to be improved o established near urban centres in order to restore healthy fish communities in the Brazilian Amazon.
+
+[Download paper here](http://fkeppeler.github.io/files/paper11.pdf)
+
