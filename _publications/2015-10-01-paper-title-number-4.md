@@ -2,9 +2,9 @@
 title: "Abundance, sex-ratio, length–weight relation, and condition factor of non-annual killifish Atlantirivulus riograndensis (Actinopterygii: Cyprinodontiformes: Rivulidae) in Lagoa do Peixe National Park, a Ramsar site of southern Brazil"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 
+date: 2012-09-30
+venue: 'Acta Ichthyologica et Piscatoria'
 paperurl: 'https://doi.org/10.3750/AIP2011.42.3.09'
 citation: 'Lanes LEK, Keppeler FW, Maltchik L. 2012. &quot;Abundance, sex-ratio, length–weight relation, and condition factor of non-annual killifish Atlantirivulus riograndensis (Actinopterygii: Cyprinodontiformes: Rivulidae) in Lagoa do Peixe National Park, a Ramsar site of southern Brazil.&quot; <i>Acta Ichthyologica et Piscatoria</i>. 42 (3): 247-252.'
 ---
