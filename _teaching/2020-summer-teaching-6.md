@@ -1,5 +1,5 @@
 ---
-title: "R: Introduction and applications"
+title: "R: Introduction and Ecological Applications"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2020-summer-teaching-6
